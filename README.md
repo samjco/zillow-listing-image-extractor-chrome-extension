@@ -1,3 +1,13 @@
+
+Go to Zillow.com
+Choose a listing.
+Extract Images.
+
+![image](https://github.com/user-attachments/assets/f0877d97-149f-406b-8a0a-9a0217eae6f6)
+
+![image](https://github.com/user-attachments/assets/dcb5be80-6e5f-4d5f-b084-cca76c069e7b)
+
+
 How to Manually Install A Chrome Extension
 
 Download the extension. Usually extensions come packaged as a zip/rar file. Extract the files into their own folder. If the extension is a “.crx” file, this is a format for Chrome extensions which contains all of its data – no need to extract anything.
