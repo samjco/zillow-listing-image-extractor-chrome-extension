@@ -1,0 +1,59 @@
+.hidden {
+    display: none;
+}
+
+#content {
+    padding: 20px;
+    width:400px;
+    height: 100vh;
+}
+
+button {
+    display: block;
+    margin: 10px 0;
+}
+
+#imageUrls h3, .dlall {
+    margin-bottom: 10px;
+    display:block;
+    width:100%;
+}
+
+#imageUrls {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.image-container {
+    width: 45%;
+    /* margin: 2.5%; */
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    padding: 10px;
+    background: #fff;
+}
+
+#imageUrls img {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.download-link {
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+}
+
+.download-link:hover {
+    background-color: #0056b3;
+}
+
+div#message {
+    border: 2px solid orange;
+    padding: 4px 8px;
+    color: orange;
+    font-weight: 600;
+}
