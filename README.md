@@ -10,7 +10,7 @@ Extract Images.
 
 How to Manually Install A Chrome Extension
 
-Download the extension. Usually extensions come packaged as a zip/rar file. Extract the files into their own folder. In Chrome, navigate to chrome://extensions/ And go into Manage Chrome Extensions and enable Developer Mode. Select Upload Unpack Folder or drag and drop the extension from your file manager anywhere onto the extensions page in Chrome,
+Download the extension. Usually extensions come packaged as a zip/rar or a CRX file. Extract the files into their own folder. In Chrome, navigate to chrome://extensions/ And go into Manage Chrome Extensions and enable Developer Mode. Select Upload Unpack Folder or drag and drop the extension from your file manager anywhere onto the extensions page in Chrome,
 which will install a chrome extension. Chrome will need continual access to these files for the extension to work, so the file path cannot change. This means don’t leave the files on your desktop or downloads folder where you may accidentally tidy them up or delete them later.
 
 
