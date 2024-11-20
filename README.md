@@ -18,3 +18,5 @@ which will install a chrome extension. Chrome will need continual access to thes
 ![image](https://github.com/user-attachments/assets/2c05db42-302a-4286-acdd-956e58cfdec6)
 
 Done! The extension is installed and you are ready to go. You can now manage the extension as you would any other, and its icon will appear in the Chrome Menu (if it has one) to the right of the address bar.
+
+Optionally, you can enable developer mode and install from there.
